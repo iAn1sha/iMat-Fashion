@@ -5,4 +5,4 @@ Please refer to our medium article to get a comprehensive outlook of our project
 
 A quick demo of the project results:
 
-![alt-text](https://github.com/manas3858/iMat-Fashion/blob/master/Demo%20Videos/gif.gif)
+![alt-text](https://github.com/iAn1sha/iMat-Fashion/blob/master/Demo%20Videos/gif.gif)
